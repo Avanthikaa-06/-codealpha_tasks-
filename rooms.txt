@@ -1,0 +1,5 @@
+101|Single|1500.0|Available|-
+102|Double|2000.0|Booked|Geetha
+103|Suite|3500.0|Available|-
+104|Deluxe|2500.0|Available|-
+105|Single|1500.0|Available|-
